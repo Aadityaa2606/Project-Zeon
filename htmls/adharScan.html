@@ -4,12 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/adharScan.css">
     <title>Scanning adhar card</title>
 </head>
 <body>
-<video id="player" controls autoplay></video>
-<button id="capture">Capture</button>
-<canvas id="canvas" width="320" height="240"></canvas>
+  <div class="glass">
+    <video id="player" controls autoplay></video>
+    <button id="capture">Capture</button>
+    <canvas id="canvas" width="320" height="240"></canvas>
+  </div>
 <script>
   const player = document.getElementById('player');
   const canvas = document.getElementById('canvas');
