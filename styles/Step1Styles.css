@@ -18,8 +18,7 @@ form {
   border-radius: 20px;
   border-left: 1px solid rgba(8, 217, 214, 0.25);
   border-top: 1px solid rgba(8, 217, 214, 0.25);
-  -webkit-backdrop-filter: blur(10px);
-          backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.2);
   text-align: center;
   position: relative;
@@ -64,8 +63,7 @@ form input, form button {
   border-left: 1px solid rgba(8, 217, 214, 0.25);
   border-top: 1px solid rgba(8, 217, 214, 0.25);
   border-radius: 5000px;
-  -webkit-backdrop-filter: blur(5px);
-          backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
   box-shadow: 4px 4px 60px rgba(0, 0, 0, 0.2);
   color: #EAEAEA;
   font-family: Montserrat, sans-serif;
@@ -96,20 +94,6 @@ form:hover {
   margin: 4px;
 }
 
-::-moz-placeholder {
-  font-family: Montserrat, sans-serif;
-  font-weight: 400;
-  color: #EAEAEA;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-}
-
-:-ms-input-placeholder {
-  font-family: Montserrat, sans-serif;
-  font-weight: 400;
-  color: #EAEAEA;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-}
-
 ::placeholder {
   font-family: Montserrat, sans-serif;
   font-weight: 400;
@@ -119,8 +103,7 @@ form:hover {
 
 .drop {
   background: rgba(8, 217, 214, 0.25);
-  -webkit-backdrop-filter: blur(10px);
-          backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   border-radius: 10px;
   border-left: 1px solid rgba(8, 217, 214, 0.25);
   border-top: 1px solid rgba(8, 217, 214, 0.25);
@@ -168,4 +151,6 @@ select:focus,
 textarea:focus,
 button:focus {
   outline: none;
-}/*# sourceMappingURL=Step1Styles.css.map */
+}
+
+/*# sourceMappingURL=Step1Styles.css.map */
