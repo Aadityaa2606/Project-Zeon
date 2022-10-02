@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scanning Driving Licence</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles/adharScanmanual.css">
+    <link rel="stylesheet" href="../styles/adharScan.css">
+  </head>
+  <body> 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>  
+  <h1 class="head">KYC STEP 4 of 4</h1>
+  <div class="container pt-5">
+      <div class="row">
+        <div class="col d-flex justify-content-center">
+          <div class="glass">
+            <video id="player" controls autoplay></video>
+          </div>
+        </div>
+        <div class="col d-flex justify-content-center">
+          <div class="glass">
+          <canvas id="canvas" width="320" height="240"></canvas>
+        </div>
+        </div>
+        </div>
+      </div>
+    <button class="button-86 but" id="capture">Capture</button>
+<script>
+  const player = document.getElementById('player');
+  const canvas = document.getElementById('canvas');
+  const context = canvas.getContext('2d');
+  const captureButton = document.getElementById('capture');
+
+  const constraints = {
+    video: true,
+  };
+
+  captureButton.addEventListener('click', () => {
+    context.drawImage(player, 0, 0, canvas.width, canvas.height); 
+    
+  });
+
+  navigator.mediaDevices.getUserMedia(constraints).then((stream) => {
+    // Attach the video stream to the video element and autoplay.
+    player.srcObject = stream;
+  });
+</script>
+
+<div class="form__group field" style="padding-top: 50px;">
+  <input type="input" class="form__field" placeholder="Name" name="name" id='name' required />
+  <label for="name" style="padding-top: 25px;"class="form__label">Enter Driving Licence number manually</label>
+</div>
+
+
+</body>
+</html>
