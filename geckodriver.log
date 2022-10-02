@@ -1,0 +1,1686 @@
+1664629163225	geckodriver	INFO	Listening on 127.0.0.1:39465
+1664629462313	geckodriver	INFO	Listening on 127.0.0.1:40107
+1664630115110	geckodriver	INFO	Listening on 127.0.0.1:37949
+1664630174353	geckodriver	INFO	Listening on 127.0.0.1:51125
+1664630174574	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "40475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletBMmdx"
+
+(firefox:212149): Gtk-WARNING **: 18:46:14.641: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 18:46:14.706: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664630175866	Marionette	INFO	Marionette enabled
+1664630175872	Marionette	INFO	Listening on port 38341
+Read port: 38341
+WebDriver BiDi listening on ws://127.0.0.1:40475
+1664630176176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletBMmdx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40475/devtools/browser/f04c33a6-a6b6-43ba-8194-837e696013fd
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664630197901	Marionette	INFO	Stopped listening on port 38341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664630992661	geckodriver	INFO	Listening on 127.0.0.1:53919
+1664630993856	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "54667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexBONs3"
+
+(firefox:213997): Gtk-WARNING **: 18:59:53.955: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 18:59:54.141: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664630995270	Marionette	INFO	Marionette enabled
+1664630995276	Marionette	INFO	Listening on port 34315
+Read port: 34315
+WebDriver BiDi listening on ws://127.0.0.1:54667
+1664630995566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexBONs3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54667/devtools/browser/dc94152f-bc07-406d-8a6b-7e7736db0af7
+1664631049311	geckodriver	INFO	Listening on 127.0.0.1:55423
+1664631049378	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "38169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8NI8bS"
+
+(firefox:214621): Gtk-WARNING **: 19:00:49.432: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:00:49.555: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631050604	Marionette	INFO	Marionette enabled
+1664631050611	Marionette	INFO	Listening on port 35441
+Read port: 35441
+WebDriver BiDi listening on ws://127.0.0.1:38169
+1664631050883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8NI8bS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38169/devtools/browser/c8a9389d-6dcd-4f7d-8271-ee116787eff2
+1664631133723	geckodriver	INFO	Listening on 127.0.0.1:40221
+1664631133789	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "42521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAQcYaB"
+
+(firefox:215523): Gtk-WARNING **: 19:02:13.812: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:02:13.854: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631134710	Marionette	INFO	Marionette enabled
+1664631134716	Marionette	INFO	Listening on port 40133
+Read port: 40133
+WebDriver BiDi listening on ws://127.0.0.1:42521
+1664631134988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAQcYaB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42521/devtools/browser/111d9cce-8186-4504-b96a-1121ef4bb3a4
+1664631254160	geckodriver	INFO	Listening on 127.0.0.1:47643
+1664631254234	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "42757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyIdhpD"
+
+(firefox:216694): Gtk-WARNING **: 19:04:14.259: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:04:14.374: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631255401	Marionette	INFO	Marionette enabled
+1664631255407	Marionette	INFO	Listening on port 40845
+Read port: 40845
+WebDriver BiDi listening on ws://127.0.0.1:42757
+1664631255604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyIdhpD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42757/devtools/browser/95889514-eccb-4b0d-9d6d-0f2691b2cb26
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664631393211	geckodriver	INFO	Listening on 127.0.0.1:44921
+1664631393283	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "46693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG66gJm"
+
+(firefox:217792): Gtk-WARNING **: 19:06:33.337: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:06:33.390: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631394428	Marionette	INFO	Marionette enabled
+1664631394431	Marionette	INFO	Listening on port 36857
+Read port: 36857
+WebDriver BiDi listening on ws://127.0.0.1:46693
+1664631394671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG66gJm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46693/devtools/browser/474d44eb-11d5-42fd-af79-a84dca493903
+1664631504116	geckodriver	INFO	Listening on 127.0.0.1:59951
+1664631504746	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "56293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRtC5Ty"
+
+(firefox:218836): Gtk-WARNING **: 19:08:24.813: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:08:24.903: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631506109	Marionette	INFO	Marionette enabled
+1664631506112	Marionette	INFO	Listening on port 36497
+Read port: 36497
+WebDriver BiDi listening on ws://127.0.0.1:56293
+1664631506313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRtC5Ty/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56293/devtools/browser/fbcd0571-67c6-446a-be67-bc3270f6cb19
+1664631733293	geckodriver	INFO	Listening on 127.0.0.1:50919
+1664631733926	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "42439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileohDjGj"
+
+(firefox:220047): Gtk-WARNING **: 19:12:13.992: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:12:14.124: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631735063	Marionette	INFO	Marionette enabled
+1664631735070	Marionette	INFO	Listening on port 42445
+Read port: 42445
+WebDriver BiDi listening on ws://127.0.0.1:42439
+1664631735354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileohDjGj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42439/devtools/browser/333727ff-96b2-4b0b-8233-0d630526346d
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631766111	Marionette	INFO	Stopped listening on port 42445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664631776591	geckodriver	INFO	Listening on 127.0.0.1:37077
+1664631777172	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "47387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyKMiia"
+
+(firefox:220644): Gtk-WARNING **: 19:12:57.209: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:12:57.259: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631778323	Marionette	INFO	Marionette enabled
+1664631778330	Marionette	INFO	Listening on port 44851
+Read port: 44851
+WebDriver BiDi listening on ws://127.0.0.1:47387
+1664631778498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyKMiia/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47387/devtools/browser/d4dfb64d-1e3f-4d7c-a6ca-8e8e84e9984c
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664631804452	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631825144	Marionette	INFO	Stopped listening on port 44851
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664631859942	geckodriver	INFO	Listening on 127.0.0.1:59845
+1664631860019	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "38071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFq96Bt"
+
+(firefox:221453): Gtk-WARNING **: 19:14:20.070: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:14:20.161: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631860816	Marionette	INFO	Marionette enabled
+1664631860823	Marionette	INFO	Listening on port 38387
+Read port: 38387
+WebDriver BiDi listening on ws://127.0.0.1:38071
+1664631861018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFq96Bt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38071/devtools/browser/d017c24e-0268-49e5-8daa-092d993086b8
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631873268	Marionette	INFO	Stopped listening on port 38387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631882046	Marionette	INFO	Stopped listening on port 36857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631884848	Marionette	INFO	Stopped listening on port 34315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664631891164	geckodriver	INFO	Listening on 127.0.0.1:48235
+1664631891755	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewIKN9y"
+
+(firefox:222104): Gtk-WARNING **: 19:14:51.817: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:14:51.927: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664631893010	Marionette	INFO	Marionette enabled
+1664631893016	Marionette	INFO	Listening on port 41945
+Read port: 41945
+WebDriver BiDi listening on ws://127.0.0.1:53745
+1664631893281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewIKN9y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53745/devtools/browser/6d753304-7088-485d-a5d5-d8e73f1b34b6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664631923844	Marionette	INFO	Stopped listening on port 41945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664632020176	geckodriver	INFO	Listening on 127.0.0.1:34337
+1664632020266	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV5SWpH"
+
+(firefox:223112): Gtk-WARNING **: 19:17:00.318: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:17:00.402: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632021096	Marionette	INFO	Marionette enabled
+1664632021100	Marionette	INFO	Listening on port 39289
+Read port: 39289
+WebDriver BiDi listening on ws://127.0.0.1:53363
+1664632021279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV5SWpH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53363/devtools/browser/65c3deae-8bb8-4bd2-9cca-c96f42011996
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632037672	Marionette	INFO	Stopped listening on port 39289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664632157783	geckodriver	INFO	Listening on 127.0.0.1:42025
+1664632158391	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "33013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiTIEci"
+
+(firefox:224542): Gtk-WARNING **: 19:19:18.465: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:19:18.562: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632159545	Marionette	INFO	Marionette enabled
+1664632159552	Marionette	INFO	Listening on port 45271
+Read port: 45271
+WebDriver BiDi listening on ws://127.0.0.1:33013
+1664632159820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiTIEci/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33013/devtools/browser/f9cb3bb2-4b4a-45e2-8331-cd6a9bd51779
+1664632215745	geckodriver	INFO	Listening on 127.0.0.1:60627
+1664632216311	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "40549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAyqtes"
+
+(firefox:225366): Gtk-WARNING **: 19:20:16.372: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:20:16.489: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632217173	Marionette	INFO	Marionette enabled
+1664632217180	Marionette	INFO	Listening on port 38129
+Read port: 38129
+WebDriver BiDi listening on ws://127.0.0.1:40549
+1664632217458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAyqtes/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40549/devtools/browser/64fd7cb5-120b-4691-9df0-a46c43518fb0
+1664632282773	geckodriver	INFO	Listening on 127.0.0.1:54283
+1664632282820	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyhZrnx"
+
+(firefox:226044): Gtk-WARNING **: 19:21:22.882: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:21:22.990: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632284029	Marionette	INFO	Marionette enabled
+1664632284035	Marionette	INFO	Listening on port 38215
+Read port: 38215
+WebDriver BiDi listening on ws://127.0.0.1:59615
+1664632284297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyhZrnx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59615/devtools/browser/375a5ba6-45ae-448c-82c0-83de2b8c18b2
+1664632357794	geckodriver	INFO	Listening on 127.0.0.1:33195
+1664632357872	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "60997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHCLQgh"
+
+(firefox:226850): Gtk-WARNING **: 19:22:37.935: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:22:38.047: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632358983	Marionette	INFO	Marionette enabled
+1664632358985	Marionette	INFO	Listening on port 38949
+Read port: 38949
+WebDriver BiDi listening on ws://127.0.0.1:60997
+1664632359207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHCLQgh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60997/devtools/browser/6a803b14-5ddd-4e96-8c97-caa1335c0f94
+1664632434800	geckodriver	INFO	Listening on 127.0.0.1:39287
+1664632434868	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "39341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiY4ahQ"
+
+(firefox:227683): Gtk-WARNING **: 19:23:54.927: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:23:55.036: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632436011	Marionette	INFO	Marionette enabled
+1664632436017	Marionette	INFO	Listening on port 34321
+Read port: 34321
+WebDriver BiDi listening on ws://127.0.0.1:39341
+1664632436270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiY4ahQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39341/devtools/browser/c6d42fe2-2b76-4c6d-9573-394658836764
+1664632474263	geckodriver	INFO	Listening on 127.0.0.1:44035
+1664632474351	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "39071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4xuufi"
+
+(firefox:228291): Gtk-WARNING **: 19:24:34.382: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:24:34.453: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632475324	Marionette	INFO	Marionette enabled
+1664632475330	Marionette	INFO	Listening on port 44659
+Read port: 44659
+WebDriver BiDi listening on ws://127.0.0.1:39071
+1664632475598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4xuufi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39071/devtools/browser/e5f044c7-e981-4687-bba7-811854bad651
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632483020	Marionette	INFO	Stopped listening on port 38949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664632687864	geckodriver	INFO	Listening on 127.0.0.1:58837
+1664632688444	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewbyKud"
+
+(firefox:229881): Gtk-WARNING **: 19:28:08.477: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:28:08.587: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632689574	Marionette	INFO	Marionette enabled
+1664632689580	Marionette	INFO	Listening on port 36385
+Read port: 36385
+WebDriver BiDi listening on ws://127.0.0.1:59317
+1664632689862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632690838	Marionette	INFO	Stopped listening on port 44659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewbyKud/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59317/devtools/browser/ab550637-489a-4170-b7c2-ba874795ee64
+1664632808854	geckodriver	INFO	Listening on 127.0.0.1:58759
+1664632809421	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "55139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO1LJYX"
+
+(firefox:230946): Gtk-WARNING **: 19:30:09.473: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:30:09.567: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632810597	Marionette	INFO	Marionette enabled
+1664632810603	Marionette	INFO	Listening on port 35397
+Read port: 35397
+WebDriver BiDi listening on ws://127.0.0.1:55139
+1664632810811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1LJYX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55139/devtools/browser/12a8dc5b-a33f-48b7-beda-4f642dc12f55
+1664632836710	geckodriver	INFO	Listening on 127.0.0.1:34889
+1664632836831	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletCSnhI"
+
+(firefox:231569): Gtk-WARNING **: 19:30:36.887: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:30:37.050: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632838224	Marionette	INFO	Marionette enabled
+1664632838231	Marionette	INFO	Listening on port 43731
+Read port: 43731
+WebDriver BiDi listening on ws://127.0.0.1:51417
+1664632838531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletCSnhI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51417/devtools/browser/8f90f22e-2e47-4f92-8751-b933b05942a2
+1664632861655	geckodriver	INFO	Listening on 127.0.0.1:46787
+1664632862359	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "48795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVxJBbH"
+
+(firefox:232130): Gtk-WARNING **: 19:31:02.417: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:31:02.560: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632863936	Marionette	INFO	Marionette enabled
+1664632863939	Marionette	INFO	Listening on port 42239
+Read port: 42239
+WebDriver BiDi listening on ws://127.0.0.1:48795
+1664632864104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVxJBbH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48795/devtools/browser/da2893fb-763e-44e9-8f19-d20c0a14a6e8
+1664632944835	geckodriver	INFO	Listening on 127.0.0.1:56225
+1664632945458	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "37127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewGf2Xv"
+
+(firefox:233201): Gtk-WARNING **: 19:32:25.513: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:32:25.636: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664632947543	Marionette	INFO	Marionette enabled
+1664632947550	Marionette	INFO	Listening on port 40179
+Read port: 40179
+WebDriver BiDi listening on ws://127.0.0.1:37127
+1664632947851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewGf2Xv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37127/devtools/browser/10d1b76c-5797-41d6-a6b3-8c4a46158047
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632956866	Marionette	INFO	Stopped listening on port 43731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632962018	Marionette	INFO	Stopped listening on port 40179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632963191	Marionette	INFO	Stopped listening on port 42239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632964517	Marionette	INFO	Stopped listening on port 35397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664632965888	Marionette	INFO	Stopped listening on port 36385
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664633024222	geckodriver	INFO	Listening on 127.0.0.1:40327
+1664633024826	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "49991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecPN4r4"
+
+(firefox:233978): Gtk-WARNING **: 19:33:44.880: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:33:45.004: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664633025641	Marionette	INFO	Marionette enabled
+1664633025649	Marionette	INFO	Listening on port 40135
+Read port: 40135
+WebDriver BiDi listening on ws://127.0.0.1:49991
+1664633025940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecPN4r4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49991/devtools/browser/7cb3fa0f-a7b3-4f06-8710-dae44da6e249
+1664633061161	geckodriver	INFO	Listening on 127.0.0.1:58987
+1664633061248	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea9Y49G"
+
+(firefox:234553): Gtk-WARNING **: 19:34:21.309: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:34:21.393: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664633062340	Marionette	INFO	Marionette enabled
+1664633062342	Marionette	INFO	Listening on port 39009
+Read port: 39009
+WebDriver BiDi listening on ws://127.0.0.1:59641
+1664633062502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea9Y49G/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59641/devtools/browser/7ca03120-d0db-44db-b6ed-18a324ef7cbb
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664633239383	Marionette	INFO	Stopped listening on port 39009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664634391560	geckodriver	INFO	Listening on 127.0.0.1:48549
+1664634392165	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVH9gR2"
+
+(firefox:239002): Gtk-WARNING **: 19:56:32.241: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:56:32.355: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664634393530	Marionette	INFO	Marionette enabled
+1664634393536	Marionette	INFO	Listening on port 33385
+Read port: 33385
+WebDriver BiDi listening on ws://127.0.0.1:59519
+1664634393813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVH9gR2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59519/devtools/browser/0264c072-b5c6-4d1c-9b9a-856bffc5897f
+1664634557426	geckodriver	INFO	Listening on 127.0.0.1:54115
+1664634558019	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "46895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezJC3NM"
+
+(firefox:240326): Gtk-WARNING **: 19:59:18.076: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 19:59:18.192: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664634559310	Marionette	INFO	Marionette enabled
+1664634559316	Marionette	INFO	Listening on port 38801
+Read port: 38801
+WebDriver BiDi listening on ws://127.0.0.1:46895
+1664634559599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezJC3NM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46895/devtools/browser/713641fa-c89b-4037-beca-bac14883520e
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664634619467	geckodriver	INFO	Listening on 127.0.0.1:41095
+1664634619549	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "40077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefloyHP"
+
+(firefox:241086): Gtk-WARNING **: 20:00:19.605: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 20:00:19.695: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664634620406	Marionette	INFO	Marionette enabled
+1664634620408	Marionette	INFO	Listening on port 46847
+Read port: 46847
+WebDriver BiDi listening on ws://127.0.0.1:40077
+1664634620620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefloyHP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40077/devtools/browser/599db7e8-74a8-4278-9df5-27d175ae12cc
+1664634698869	geckodriver	INFO	Listening on 127.0.0.1:33023
+1664634698921	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "47713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAFg6nF"
+
+(firefox:242286): Gtk-WARNING **: 20:01:38.946: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 20:01:38.982: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664634699829	Marionette	INFO	Marionette enabled
+1664634699835	Marionette	INFO	Listening on port 45567
+Read port: 45567
+WebDriver BiDi listening on ws://127.0.0.1:47713
+1664634700095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAFg6nF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47713/devtools/browser/5d1f01d2-9b3e-457c-bbf6-596226f5760d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664634758459	Marionette	INFO	Stopped listening on port 45567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664639631084	geckodriver	INFO	Listening on 127.0.0.1:47755
+1664639631674	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuNAypM"
+
+(firefox:247919): Gtk-WARNING **: 21:23:51.739: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:23:51.888: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639632921	Marionette	INFO	Marionette enabled
+1664639632927	Marionette	INFO	Listening on port 46025
+Read port: 46025
+WebDriver BiDi listening on ws://127.0.0.1:51037
+1664639633205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuNAypM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51037/devtools/browser/688b7d41-a341-4f07-afe3-578d8edf8da3
+1664639665511	geckodriver	INFO	Listening on 127.0.0.1:34245
+1664639665595	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "40023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTGRJm3"
+
+(firefox:248552): Gtk-WARNING **: 21:24:25.649: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:24:25.698: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639666582	Marionette	INFO	Marionette enabled
+1664639666587	Marionette	INFO	Listening on port 40161
+Read port: 40161
+WebDriver BiDi listening on ws://127.0.0.1:40023
+1664639666847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTGRJm3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40023/devtools/browser/d6de4f09-b5e3-44c9-a988-8b6f685b8266
+1664639693636	geckodriver	INFO	Listening on 127.0.0.1:40831
+1664639693710	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "55503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej3UnP4"
+
+(firefox:249138): Gtk-WARNING **: 21:24:53.768: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:24:53.865: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639694836	Marionette	INFO	Marionette enabled
+1664639694839	Marionette	INFO	Listening on port 38917
+Read port: 38917
+WebDriver BiDi listening on ws://127.0.0.1:55503
+1664639694960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej3UnP4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55503/devtools/browser/6076459e-4fe0-4a58-8aa1-d6e17d058554
+1664639786859	geckodriver	INFO	Listening on 127.0.0.1:41609
+1664639786941	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "57829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaL1MWv"
+
+(firefox:249852): Gtk-WARNING **: 21:26:26.997: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:26:27.116: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639788093	Marionette	INFO	Marionette enabled
+1664639788096	Marionette	INFO	Listening on port 38331
+Read port: 38331
+WebDriver BiDi listening on ws://127.0.0.1:57829
+1664639788223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaL1MWv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57829/devtools/browser/27ee26ca-702a-420e-a0c4-76ca7ab6d607
+1664639842598	geckodriver	INFO	Listening on 127.0.0.1:36447
+1664639842689	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "35077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGbfwMV"
+
+(firefox:250579): Gtk-WARNING **: 21:27:22.745: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:27:22.794: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639843768	Marionette	INFO	Marionette enabled
+1664639843774	Marionette	INFO	Listening on port 42141
+Read port: 42141
+WebDriver BiDi listening on ws://127.0.0.1:35077
+1664639844036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGbfwMV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35077/devtools/browser/22a618cc-eac7-4846-9970-1d2d2395f4e5
+1664639901573	geckodriver	INFO	Listening on 127.0.0.1:39619
+1664639902150	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekmaLT6"
+
+(firefox:251315): Gtk-WARNING **: 21:28:22.208: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:28:22.290: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664639902893	Marionette	INFO	Marionette enabled
+1664639902900	Marionette	INFO	Listening on port 42919
+Read port: 42919
+WebDriver BiDi listening on ws://127.0.0.1:51829
+1664639903172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekmaLT6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51829/devtools/browser/f870d6cd-b1f4-441c-800c-f803aa5b04a4
+1664640008128	geckodriver	INFO	Listening on 127.0.0.1:58279
+1664640008695	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilere7HTV"
+
+(firefox:252038): Gtk-WARNING **: 21:30:08.749: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:30:08.794: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640009741	Marionette	INFO	Marionette enabled
+1664640009746	Marionette	INFO	Listening on port 34763
+Read port: 34763
+WebDriver BiDi listening on ws://127.0.0.1:51525
+1664640009935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilere7HTV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51525/devtools/browser/f02a0739-c3ce-4149-b4b6-48068fbfbdec
+1664640144264	geckodriver	INFO	Listening on 127.0.0.1:60539
+1664640144862	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileajrlLx"
+
+(firefox:253500): Gtk-WARNING **: 21:32:24.925: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:32:25.044: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640146011	Marionette	INFO	Marionette enabled
+1664640146018	Marionette	INFO	Listening on port 40745
+Read port: 40745
+WebDriver BiDi listening on ws://127.0.0.1:51427
+1664640146312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileajrlLx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51427/devtools/browser/80ab692a-fe9e-4ceb-ab1d-daed8084be26
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664640239202	Marionette	INFO	Stopped listening on port 40745
+1664640283368	geckodriver	INFO	Listening on 127.0.0.1:45473
+1664640283406	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "52159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepf9AM9"
+
+(firefox:254980): Gtk-WARNING **: 21:34:43.457: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:34:43.546: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640284573	Marionette	INFO	Marionette enabled
+1664640284579	Marionette	INFO	Listening on port 41803
+Read port: 41803
+WebDriver BiDi listening on ws://127.0.0.1:52159
+1664640284849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepf9AM9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52159/devtools/browser/ef2c9673-122b-4919-b799-57b87416dc82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myaadhaar.uidai.gov.in."
+1664640421329	geckodriver	INFO	Listening on 127.0.0.1:43479
+1664640421443	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "47349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2Bc3pP"
+
+(firefox:256312): Gtk-WARNING **: 21:37:01.496: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:37:01.541: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640422578	Marionette	INFO	Marionette enabled
+1664640422584	Marionette	INFO	Listening on port 38403
+Read port: 38403
+WebDriver BiDi listening on ws://127.0.0.1:47349
+1664640422851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2Bc3pP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47349/devtools/browser/bdc92556-13b7-406c-b59b-1937960f203c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664640675684	Marionette	INFO	Stopped listening on port 38403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664640682122	geckodriver	INFO	Listening on 127.0.0.1:37855
+1664640682187	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "41141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletdM7AF"
+
+(firefox:257895): Gtk-WARNING **: 21:41:22.213: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:41:22.318: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640682916	Marionette	INFO	Marionette enabled
+1664640682922	Marionette	INFO	Listening on port 36077
+Read port: 36077
+WebDriver BiDi listening on ws://127.0.0.1:41141
+1664640683171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletdM7AF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41141/devtools/browser/23d8065f-fba0-4e56-9825-2a5d842d9858
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664640703261	Marionette	INFO	Stopped listening on port 36077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664640718652	geckodriver	INFO	Listening on 127.0.0.1:39291
+1664640719229	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "58787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile81ZBVd"
+
+(firefox:258528): Gtk-WARNING **: 21:41:59.287: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:41:59.379: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664640720310	Marionette	INFO	Marionette enabled
+1664640720313	Marionette	INFO	Listening on port 40547
+Read port: 40547
+WebDriver BiDi listening on ws://127.0.0.1:58787
+1664640720491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile81ZBVd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58787/devtools/browser/c0cecfdc-08b5-4791-b004-c5066161d874
+1664641021394	geckodriver	INFO	Listening on 127.0.0.1:43877
+1664641021466	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "48391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileILaXVt"
+
+(firefox:260055): Gtk-WARNING **: 21:47:01.520: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:47:01.610: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641022542	Marionette	INFO	Marionette enabled
+1664641022545	Marionette	INFO	Listening on port 43673
+Read port: 43673
+WebDriver BiDi listening on ws://127.0.0.1:48391
+1664641022662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileILaXVt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48391/devtools/browser/22c96432-d1f3-4c11-907d-27926fb2f419
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: https://myaadhaar.uidai.gov.in/verifyAadhaar, line 1: Error: Loading CSS chunk 21 failed.
+(/static/css/21.95f8ce86.chunk.css)
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664641136375	Marionette	INFO	Stopped listening on port 43673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664641138267	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1664641269461	geckodriver	INFO	Listening on 127.0.0.1:55767
+1664641269535	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "58319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSKZZAx"
+
+(firefox:260961): Gtk-WARNING **: 21:51:09.589: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:51:09.678: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641270291	Marionette	INFO	Marionette enabled
+1664641270293	Marionette	INFO	Listening on port 34951
+Read port: 34951
+WebDriver BiDi listening on ws://127.0.0.1:58319
+1664641270407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSKZZAx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58319/devtools/browser/44258e5e-7d26-4290-9b03-0613dfa29db8
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664641548620	Marionette	INFO	Stopped listening on port 34951
+1664641636668	geckodriver	INFO	Listening on 127.0.0.1:34927
+1664641637249	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "44591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBZm8Zd"
+
+(firefox:3601): Gtk-WARNING **: 21:57:17.309: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:57:17.447: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641638665	Marionette	INFO	Marionette enabled
+1664641638672	Marionette	INFO	Listening on port 33743
+Read port: 33743
+WebDriver BiDi listening on ws://127.0.0.1:44591
+1664641638948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBZm8Zd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44591/devtools/browser/faad6ddd-bb9a-4124-af86-4bd5eb5be739
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664641692829	geckodriver	INFO	Listening on 127.0.0.1:53897
+1664641692903	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "34717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile13N1Kd"
+
+(firefox:4192): Gtk-WARNING **: 21:58:12.956: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:58:13.060: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641694117	Marionette	INFO	Marionette enabled
+1664641694126	Marionette	INFO	Listening on port 33079
+Read port: 33079
+WebDriver BiDi listening on ws://127.0.0.1:34717
+1664641694410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile13N1Kd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34717/devtools/browser/7a31d612-6c44-40a2-9943-0bea9ded25f5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664641757454	geckodriver	INFO	Listening on 127.0.0.1:34939
+1664641757522	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaf2TF4"
+
+(firefox:4794): Gtk-WARNING **: 21:59:17.577: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 21:59:17.680: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641758785	Marionette	INFO	Marionette enabled
+1664641758791	Marionette	INFO	Listening on port 45269
+Read port: 45269
+WebDriver BiDi listening on ws://127.0.0.1:59619
+1664641759053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaf2TF4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59619/devtools/browser/2b04d956-c800-4562-a6bb-b0653249f090
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664641805614	Marionette	INFO	Stopped listening on port 45269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664641812534	geckodriver	INFO	Listening on 127.0.0.1:37033
+1664641812605	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "36629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekz5yRY"
+
+(firefox:5471): Gtk-WARNING **: 22:00:12.658: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:00:12.768: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641813846	Marionette	INFO	Marionette enabled
+1664641813852	Marionette	INFO	Listening on port 39229
+Read port: 39229
+WebDriver BiDi listening on ws://127.0.0.1:36629
+1664641814118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekz5yRY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36629/devtools/browser/4dfd0efa-f141-4bac-8757-16abd135055f
+1664641957418	geckodriver	INFO	Listening on 127.0.0.1:37337
+1664641957517	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "52209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledlCLQf"
+
+(firefox:7566): Gtk-WARNING **: 22:02:37.568: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:02:37.672: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641958782	Marionette	INFO	Marionette enabled
+1664641958788	Marionette	INFO	Listening on port 35129
+Read port: 35129
+WebDriver BiDi listening on ws://127.0.0.1:52209
+1664641959061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledlCLQf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52209/devtools/browser/15bc4805-858b-462b-917b-7fe5d641e096
+1664641981782	geckodriver	INFO	Listening on 127.0.0.1:50779
+1664641981854	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePbHYQU"
+
+(firefox:8148): Gtk-WARNING **: 22:03:01.906: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:03:02.019: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664641983071	Marionette	INFO	Marionette enabled
+1664641983077	Marionette	INFO	Listening on port 34765
+Read port: 34765
+WebDriver BiDi listening on ws://127.0.0.1:54589
+1664641983344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePbHYQU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54589/devtools/browser/92d1d62d-b7b2-4e0c-b57e-d545087be8e0
+1664642096166	geckodriver	INFO	Listening on 127.0.0.1:51535
+1664642096245	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "40531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerurFCA"
+
+(firefox:9356): Gtk-WARNING **: 22:04:56.297: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:04:56.396: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664642097465	Marionette	INFO	Marionette enabled
+1664642097472	Marionette	INFO	Listening on port 42497
+Read port: 42497
+WebDriver BiDi listening on ws://127.0.0.1:40531
+1664642097737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerurFCA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40531/devtools/browser/1a2e6d70-1706-4020-8300-4da83bb1af1b
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664642210824	Marionette	INFO	Stopped listening on port 42497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664642500221	geckodriver	INFO	Listening on 127.0.0.1:37111
+1664642500302	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "38615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiEm17n"
+
+(firefox:11353): Gtk-WARNING **: 22:11:40.353: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:11:40.470: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664642501557	Marionette	INFO	Marionette enabled
+1664642501564	Marionette	INFO	Listening on port 44945
+Read port: 44945
+WebDriver BiDi listening on ws://127.0.0.1:38615
+1664642501838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiEm17n/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38615/devtools/browser/063cc395-9833-4c5e-93e3-6e82848f245a
+1664642561456	geckodriver	INFO	Listening on 127.0.0.1:59463
+1664642561532	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "41661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekzdIiU"
+
+(firefox:12044): Gtk-WARNING **: 22:12:41.584: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:12:41.695: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664642562738	Marionette	INFO	Marionette enabled
+1664642562745	Marionette	INFO	Listening on port 46881
+Read port: 46881
+WebDriver BiDi listening on ws://127.0.0.1:41661
+1664642563012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekzdIiU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41661/devtools/browser/01386d1e-2c51-4517-8d05-a9925fb8dd2a
+1664642843363	geckodriver	INFO	Listening on 127.0.0.1:56643
+1664642843431	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "42641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuzKePr"
+
+(firefox:13257): Gtk-WARNING **: 22:17:23.483: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:17:23.589: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664642844647	Marionette	INFO	Marionette enabled
+1664642844653	Marionette	INFO	Listening on port 41193
+Read port: 41193
+WebDriver BiDi listening on ws://127.0.0.1:42641
+1664642844928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuzKePr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42641/devtools/browser/b17a4ae2-0476-4afc-8eab-e79e1aa3fba7
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643025962	Marionette	INFO	Stopped listening on port 41193
+1664643030134	geckodriver	INFO	Listening on 127.0.0.1:51749
+1664643030207	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "35321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2wGMUv"
+
+(firefox:14350): Gtk-WARNING **: 22:20:30.260: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:20:30.379: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643031432	Marionette	INFO	Marionette enabled
+1664643031438	Marionette	INFO	Listening on port 43557
+Read port: 43557
+WebDriver BiDi listening on ws://127.0.0.1:35321
+1664643031702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2wGMUv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35321/devtools/browser/1aa519cd-59e2-45d1-8c32-aea060783cb6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643072142	Marionette	INFO	Stopped listening on port 43557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643110224	Marionette	INFO	Stopped listening on port 34765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664643208406	geckodriver	INFO	Listening on 127.0.0.1:48249
+1664643208483	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "42141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBdo4oG"
+
+(firefox:15351): Gtk-WARNING **: 22:23:28.534: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:23:28.636: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643209668	Marionette	INFO	Marionette enabled
+1664643209674	Marionette	INFO	Listening on port 42261
+Read port: 42261
+WebDriver BiDi listening on ws://127.0.0.1:42141
+1664643209942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBdo4oG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42141/devtools/browser/7276a319-5134-4d5c-a7e2-002f46a73c69
+1664643289755	geckodriver	INFO	Listening on 127.0.0.1:60001
+1664643289839	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "38977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileebwEHW"
+
+(firefox:16515): Gtk-WARNING **: 22:24:49.891: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:24:50.009: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643291057	Marionette	INFO	Marionette enabled
+1664643291063	Marionette	INFO	Listening on port 42877
+Read port: 42877
+WebDriver BiDi listening on ws://127.0.0.1:38977
+1664643291330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileebwEHW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38977/devtools/browser/c1b7c8fc-f2b8-4012-9a76-244b565aa3e6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643309905	Marionette	INFO	Stopped listening on port 42877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664643316530	geckodriver	INFO	Listening on 127.0.0.1:57067
+1664643316611	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "35069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg1uW0o"
+
+(firefox:17130): Gtk-WARNING **: 22:25:16.667: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:25:16.778: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643317857	Marionette	INFO	Marionette enabled
+1664643317863	Marionette	INFO	Listening on port 36137
+Read port: 36137
+WebDriver BiDi listening on ws://127.0.0.1:35069
+1664643318134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg1uW0o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35069/devtools/browser/46a17716-17dd-46bc-879a-1da185e52fba
+1664643603095	geckodriver	INFO	Listening on 127.0.0.1:53269
+1664643603687	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "34913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepHpcJH"
+
+(firefox:18780): Gtk-WARNING **: 22:30:03.743: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:30:03.859: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643605263	Marionette	INFO	Marionette enabled
+1664643605271	Marionette	INFO	Listening on port 46541
+Read port: 46541
+WebDriver BiDi listening on ws://127.0.0.1:34913
+1664643605585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepHpcJH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34913/devtools/browser/f88a584a-db88-49b3-a9d2-972742b4f059
+1664643715812	geckodriver	INFO	Listening on 127.0.0.1:41469
+1664643716417	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeognfv"
+
+(firefox:20021): Gtk-WARNING **: 22:31:56.471: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:31:56.575: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643717711	Marionette	INFO	Marionette enabled
+1664643717721	Marionette	INFO	Listening on port 42835
+Read port: 42835
+WebDriver BiDi listening on ws://127.0.0.1:53561
+1664643718024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeognfv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53561/devtools/browser/5c6e5ee1-a278-48e0-ab72-64d885a05a68
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643721636	Marionette	INFO	Stopped listening on port 42261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643725631	Marionette	INFO	Stopped listening on port 46541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643726843	Marionette	INFO	Stopped listening on port 36137
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643738029	Marionette	INFO	Stopped listening on port 42835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664643744560	geckodriver	INFO	Listening on 127.0.0.1:52797
+1664643744635	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBTURxk"
+
+(firefox:20684): Gtk-WARNING **: 22:32:24.692: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:32:24.802: Failed to load module "appmenu-gtk-module"
+1664643756432	geckodriver	INFO	Listening on 127.0.0.1:33867
+1664643756499	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "36965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiUlkR8"
+
+(firefox:21018): Gtk-WARNING **: 22:32:36.551: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 22:32:36.646: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664643757689	Marionette	INFO	Marionette enabled
+1664643757696	Marionette	INFO	Listening on port 33951
+Read port: 33951
+WebDriver BiDi listening on ws://127.0.0.1:36965
+1664643757962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUlkR8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36965/devtools/browser/23083f4c-cd44-4f60-9e03-3c745f212178
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664643801702	Marionette	INFO	Stopped listening on port 33951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664645966157	geckodriver	INFO	Listening on 127.0.0.1:45689
+1664645966255	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "54651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg0auMl"
+
+(firefox:28170): Gtk-WARNING **: 23:09:26.318: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:09:26.446: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664645967647	Marionette	INFO	Marionette enabled
+1664645967655	Marionette	INFO	Listening on port 43361
+Read port: 43361
+WebDriver BiDi listening on ws://127.0.0.1:54651
+1664645967965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg0auMl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54651/devtools/browser/7748826e-eddc-4255-af43-0d9003178328
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664646058263	Marionette	INFO	Stopped listening on port 43361
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664646059383	geckodriver	INFO	Listening on 127.0.0.1:51339
+1664646059482	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledeEoph"
+
+(firefox:29196): Gtk-WARNING **: 23:10:59.536: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:10:59.643: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664646060732	Marionette	INFO	Marionette enabled
+1664646060739	Marionette	INFO	Listening on port 34225
+Read port: 34225
+WebDriver BiDi listening on ws://127.0.0.1:53281
+1664646061008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledeEoph/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53281/devtools/browser/7d8d598b-e79d-492f-b233-bfc14e67c816
+1664646109307	geckodriver	INFO	Listening on 127.0.0.1:46429
+1664646109395	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "41719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerPW9pn"
+
+(firefox:29755): Gtk-WARNING **: 23:11:49.447: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 23:11:49.554: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664646110619	Marionette	INFO	Marionette enabled
+1664646110626	Marionette	INFO	Listening on port 33723
+Read port: 33723
+WebDriver BiDi listening on ws://127.0.0.1:41719
+1664646110892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerPW9pn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41719/devtools/browser/a4614e8f-7809-4fc8-b3d6-49916901d05b
+1664651510988	geckodriver	INFO	Listening on 127.0.0.1:40331
+1664651511605	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "38279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRYHbJj"
+
+(firefox:44094): Gtk-WARNING **: 00:41:51.667: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:41:51.765: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664651512800	Marionette	INFO	Marionette enabled
+1664651512804	Marionette	INFO	Listening on port 41393
+Read port: 41393
+WebDriver BiDi listening on ws://127.0.0.1:38279
+1664651512995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRYHbJj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38279/devtools/browser/82bcd0ed-a68a-402c-88ad-2ea4d045b830
+1664651794414	geckodriver	INFO	Listening on 127.0.0.1:55781
+1664651795030	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "33063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekF3BHa"
+
+(firefox:45404): Gtk-WARNING **: 00:46:35.086: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:46:35.188: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664651796322	Marionette	INFO	Marionette enabled
+1664651796329	Marionette	INFO	Listening on port 41733
+Read port: 41733
+WebDriver BiDi listening on ws://127.0.0.1:33063
+1664651796583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekF3BHa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33063/devtools/browser/e77ce1f6-314c-436b-ba6c-ae3645a35903
+1664651834620	geckodriver	INFO	Listening on 127.0.0.1:39493
+1664651834732	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "46529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepV7lxj"
+
+(firefox:45985): Gtk-WARNING **: 00:47:14.796: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:47:14.925: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664651835981	Marionette	INFO	Marionette enabled
+1664651835987	Marionette	INFO	Listening on port 44255
+Read port: 44255
+WebDriver BiDi listening on ws://127.0.0.1:46529
+1664651836256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepV7lxj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46529/devtools/browser/259417c7-0d6b-483b-86be-4f376b1d4cb7
+1664652004925	geckodriver	INFO	Listening on 127.0.0.1:48993
+1664652005520	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "49209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR0LYsH"
+
+(firefox:47166): Gtk-WARNING **: 00:50:05.550: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:50:05.601: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652006756	Marionette	INFO	Marionette enabled
+1664652006762	Marionette	INFO	Listening on port 41267
+Read port: 41267
+WebDriver BiDi listening on ws://127.0.0.1:49209
+1664652006928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR0LYsH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49209/devtools/browser/f5b278df-4d58-40b0-83ba-4ff1ac1425d5
+JavaScript warning: https://parivahan.gov.in/parivahan//sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1664652434498	geckodriver	INFO	Listening on 127.0.0.1:51055
+1664652434602	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "49701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYP0JfG"
+
+(firefox:49330): Gtk-WARNING **: 00:57:14.686: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:57:14.785: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652435901	Marionette	INFO	Marionette enabled
+1664652435908	Marionette	INFO	Listening on port 43945
+Read port: 43945
+WebDriver BiDi listening on ws://127.0.0.1:49701
+1664652436143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYP0JfG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49701/devtools/browser/757bc4a3-15f5-4c1a-bd6f-729e4b7944f8
+JavaScript warning: https://parivahan.gov.in/parivahan//sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1664652534196	geckodriver	INFO	Listening on 127.0.0.1:36781
+1664652534355	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "35971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2OuW8z"
+
+(firefox:50456): Gtk-WARNING **: 00:58:54.412: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:58:54.533: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652535563	Marionette	INFO	Marionette enabled
+1664652535569	Marionette	INFO	Listening on port 38529
+Read port: 38529
+WebDriver BiDi listening on ws://127.0.0.1:35971
+1664652535825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2OuW8z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35971/devtools/browser/36a5811d-ebab-4056-9d12-e84251e1adc1
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664652538054	Marionette	INFO	Stopped listening on port 41267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664652543444	Marionette	INFO	Stopped listening on port 44255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664652547829	Marionette	INFO	Stopped listening on port 41733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664652574848	Marionette	INFO	Stopped listening on port 38529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664652582438	geckodriver	INFO	Listening on 127.0.0.1:51025
+1664652583026	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekMGbJU"
+
+(firefox:51261): Gtk-WARNING **: 00:59:43.082: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 00:59:43.206: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652584309	Marionette	INFO	Marionette enabled
+1664652584316	Marionette	INFO	Listening on port 35863
+Read port: 35863
+WebDriver BiDi listening on ws://127.0.0.1:59457
+1664652584588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekMGbJU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59457/devtools/browser/68d6f3ee-3577-434e-a1c8-b7243e4ca87d
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664652610521	geckodriver	INFO	Listening on 127.0.0.1:58809
+1664652610611	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "51203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile97luDv"
+
+(firefox:51892): Gtk-WARNING **: 01:00:10.663: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:00:10.780: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652611862	Marionette	INFO	Marionette enabled
+1664652611868	Marionette	INFO	Listening on port 34359
+Read port: 34359
+WebDriver BiDi listening on ws://127.0.0.1:51203
+1664652612090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile97luDv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51203/devtools/browser/bc46915b-9e79-4efb-800f-db2d75f11997
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664652879030	Marionette	INFO	Stopped listening on port 34359
+1664652886299	geckodriver	INFO	Listening on 127.0.0.1:51615
+1664652886374	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "43295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletrg8Lt"
+
+(firefox:53351): Gtk-WARNING **: 01:04:46.429: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:04:46.527: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652887084	Marionette	INFO	Marionette enabled
+1664652887090	Marionette	INFO	Listening on port 41207
+Read port: 41207
+WebDriver BiDi listening on ws://127.0.0.1:43295
+1664652887344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletrg8Lt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43295/devtools/browser/18f302da-2701-49a7-9fc4-3fd0f8b71cf2
+1664652949477	geckodriver	INFO	Listening on 127.0.0.1:33177
+1664652950079	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "41185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexB4Ifn"
+
+(firefox:54447): Gtk-WARNING **: 01:05:50.141: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:05:50.244: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664652951343	Marionette	INFO	Marionette enabled
+1664652951350	Marionette	INFO	Listening on port 45977
+Read port: 45977
+WebDriver BiDi listening on ws://127.0.0.1:41185
+1664652951629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexB4Ifn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41185/devtools/browser/bf27bac2-58bc-45a7-a828-1e724a7e3418
+1664653055578	geckodriver	INFO	Listening on 127.0.0.1:47193
+1664653055670	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "44457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilearEuv4"
+
+(firefox:55615): Gtk-WARNING **: 01:07:35.740: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:07:35.820: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653056747	Marionette	INFO	Marionette enabled
+1664653056754	Marionette	INFO	Listening on port 35627
+Read port: 35627
+WebDriver BiDi listening on ws://127.0.0.1:44457
+1664653057017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilearEuv4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44457/devtools/browser/dfaab9c3-664b-4a1b-8045-19c8564eb3f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+1664653583143	geckodriver	INFO	Listening on 127.0.0.1:37783
+1664653583775	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "35599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXO0UaD"
+
+(firefox:57998): Gtk-WARNING **: 01:16:23.842: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:16:24.002: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653585122	Marionette	INFO	Marionette enabled
+1664653585128	Marionette	INFO	Listening on port 45079
+Read port: 45079
+WebDriver BiDi listening on ws://127.0.0.1:35599
+1664653585392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXO0UaD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35599/devtools/browser/b6aa404f-1cc8-405c-854d-d6df6e62b77e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+JavaScript warning: https://parivahan.gov.in/parivahan//sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1664653767429	geckodriver	INFO	Listening on 127.0.0.1:42981
+1664653768096	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "60503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez1fWbH"
+
+(firefox:59042): Gtk-WARNING **: 01:19:28.128: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:19:28.238: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653769387	Marionette	INFO	Marionette enabled
+1664653769394	Marionette	INFO	Listening on port 38383
+Read port: 38383
+WebDriver BiDi listening on ws://127.0.0.1:60503
+1664653769660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez1fWbH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60503/devtools/browser/7e172938-90d1-43c0-bacf-fccfe9841dbe
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664653778403	Marionette	INFO	Stopped listening on port 35627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664653800334	geckodriver	INFO	Listening on 127.0.0.1:49037
+1664653800912	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "49633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled8eOaA"
+
+(firefox:59814): Gtk-WARNING **: 01:20:00.972: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:20:01.091: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653802094	Marionette	INFO	Marionette enabled
+1664653802100	Marionette	INFO	Listening on port 38563
+Read port: 38563
+WebDriver BiDi listening on ws://127.0.0.1:49633
+1664653802358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled8eOaA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49633/devtools/browser/4822eb2c-315c-4a96-b4cc-ea7dbde4ced4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664653844281	geckodriver	INFO	Listening on 127.0.0.1:56471
+1664653844368	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles28nT5"
+
+(firefox:60556): Gtk-WARNING **: 01:20:44.422: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:20:44.474: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653845214	Marionette	INFO	Marionette enabled
+1664653845220	Marionette	INFO	Listening on port 39765
+Read port: 39765
+WebDriver BiDi listening on ws://127.0.0.1:59287
+1664653845479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles28nT5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59287/devtools/browser/3da3eb3e-cf0a-48ad-b459-96ab1e490150
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+1664653989474	geckodriver	INFO	Listening on 127.0.0.1:37791
+1664653989552	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "59911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZmUbm2"
+
+(firefox:61568): Gtk-WARNING **: 01:23:09.602: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:23:09.709: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664653990610	Marionette	INFO	Marionette enabled
+1664653990613	Marionette	INFO	Listening on port 39081
+Read port: 39081
+WebDriver BiDi listening on ws://127.0.0.1:59911
+1664653990786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZmUbm2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59911/devtools/browser/72959c43-f72a-45a1-b6c1-81d9d7595345
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664654039846	Marionette	INFO	Stopped listening on port 39081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664654041627	Marionette	INFO	Stopped listening on port 39765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664654045899	geckodriver	INFO	Listening on 127.0.0.1:50989
+1664654045970	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDOWOqZ"
+
+(firefox:62407): Gtk-WARNING **: 01:24:06.024: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:24:06.133: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664654047063	Marionette	INFO	Marionette enabled
+1664654047070	Marionette	INFO	Listening on port 40517
+Read port: 40517
+WebDriver BiDi listening on ws://127.0.0.1:53561
+1664654047334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDOWOqZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53561/devtools/browser/93ec6681-2021-478e-8a6e-02e941637f8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+1664654170028	geckodriver	INFO	Listening on 127.0.0.1:47857
+1664654170097	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox-bin" "--marionette" "--remote-debugging-port" "53751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekajHta"
+
+(firefox:63277): Gtk-WARNING **: 01:26:10.148: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: 01:26:10.196: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664654171258	Marionette	INFO	Marionette enabled
+1664654171266	Marionette	INFO	Listening on port 37109
+Read port: 37109
+WebDriver BiDi listening on ws://127.0.0.1:53751
+1664654171549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekajHta/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53751/devtools/browser/7e6675a9-f6ea-4d3c-a7e3-94a4b096465b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parivahan.gov.in."
+JavaScript warning: https://parivahan.gov.in/parivahan//sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664655706331	Marionette	INFO	Stopped listening on port 37109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
