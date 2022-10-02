@@ -217,37 +217,15 @@ body {
 .drop-1 {
   height: 80px;
   width: 80px;
-  top: -20px;
-  left: -40px;
+  bottom: 230px;
+  left: 400px;
   z-index: -1;
 }
 
 .drop-2 {
   height: 80px;
   width: 80px;
-  bottom: -30px;
-  right: -10px;
-}
-
-.drop-3 {
-  height: 100px;
-  width: 100px;
-  bottom: 120px;
-  right: -50px;
-  z-index: -1;
-}
-
-.drop-4 {
-  height: 120px;
-  width: 120px;
-  top: -60px;
-  right: -60px;
-}
-
-.drop-5 {
-  height: 60px;
-  width: 60px;
-  bottom: 170px;
-  left: 90px;
+  top: 230px;
+  right: 400px;
   z-index: -1;
 }/*# sourceMappingURL=load.css.map */
